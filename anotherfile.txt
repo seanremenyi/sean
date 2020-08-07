@@ -5,5 +5,4 @@ bear
 jumped
 over
 the
-puddle
-
+moon
