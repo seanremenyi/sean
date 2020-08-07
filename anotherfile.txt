@@ -1,8 +1,9 @@
 the
-quick
+slow
 brown
-fox
+bear
 jumped
 over
 the
-fence
+puddle
+
